@@ -6,3 +6,4 @@ app/helper/sites.py
 config/user.db
 *.pyc
 *.log
+.vscode/
